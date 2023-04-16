@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1525229594 source:c:\users\huy\onedrive\desktop\2048_nopbaigiuaki\appgame.cpp
+	"AppGame.h"
+	"draw.h"
+	"globalvars.h"
+
+1525229594 c:\users\huy\onedrive\desktop\2048_nopbaigiuaki\appgame.h
+	"draw.h"
+
+1525229594 c:\users\huy\onedrive\desktop\2048_nopbaigiuaki\draw.h
+	"globalvars.h"
+
+1525229594 c:\users\huy\onedrive\desktop\2048_nopbaigiuaki\globalvars.h
+	<iostream>
+	<string>
+	<sstream>
+	<math.h>
+	<ctime>
+	<cstdlib>
+	<fstream>
+	<algorithm>
+	<Windows.h>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1681320747 source:c:\users\huy\onedrive\desktop\2048_nopbaigiuaki\draw.cpp
+	"draw.h"
+	"AppGame.h"
+
+1525229594 source:c:\users\huy\onedrive\desktop\2048_nopbaigiuaki\globalvars.cpp
+	"globalVars.h"
+
+1681662695 source:c:\users\huy\onedrive\desktop\2048_nopbaigiuaki\main.cpp
+	"AppGame.h"
+
